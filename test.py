@@ -13,7 +13,6 @@ for i in range(len(wrd)):
 	else:
 		stream.append(key[i])
 
-print(stream)
 
 for i in range(len(wrd)):
 	x = alph.index(wrd[i])
