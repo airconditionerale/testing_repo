@@ -15,3 +15,15 @@ for i in range(len(wrd)):
 
 print(stream)
 
+for i in range(len(wrd)):
+	x = alph.index(wrd[i])
+	y = alph.index(stream[i])
+	add = x + y
+	if add> len(alph)-1:
+		add = add-len(alph)
+			
+	done.append(alph[add])
+
+print(done)
+			
+	
