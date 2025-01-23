@@ -1,3 +1,1 @@
-##Happy
-#Thurs
-Day
+## Ailee and Timur are best friends
